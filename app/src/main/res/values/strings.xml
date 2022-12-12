@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FragmentNavigation</string>
+    <string name="user_title">User: %s %s</string>
+</resources>
